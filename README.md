@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Data Scince and Machine Learning
 - 💞️ I’m looking to collaborate on Fintech projects.
 - 📫 Reach me on below mediums,\
-           - Linkedin - https://www.linkedin.com/in/dhrubaseal \
-           - Email - dhrubaseal@gmail.com\
+           - Linkedin - https://www.linkedin.com/in/dhrubaseal
+           - Email - dhrubaseal@gmail.com
            - Phone - +91 9007974183
 
 <!---
