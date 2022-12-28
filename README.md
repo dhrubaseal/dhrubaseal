@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dhruba Jyoti Seal
-- 👀 I’m interested in incorporation of Data Science & Machine Learning in finance and investment domain. 
+- 👀 I’m interested in incorporation of Data Science & Machine Learning in Financial Services and FinTech domain. 
 - 🌱 I’m currently learning Data Science and Machine Learning
 - 💞️ I’m looking to collaborate on Fintech projects.
 - 📫 Reach me on below mediums,\
