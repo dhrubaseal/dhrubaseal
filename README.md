@@ -1,5 +1,3 @@
-(https://github.com/dhrubaseal/dhrubaseal/blob/main/LinkedIn%20Banner.png)
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Dhruba Jyoti Seal
 =========================================================================================================================================
 
@@ -25,19 +23,6 @@ A curious mind, trying to solve business problems with data and advance technolo
 <a href="http://www.github.com/dhrubaseal"><img src="https://github-readme-stats.vercel.app/api?username=dhrubaseal&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dhrubaseal's GitHub stats" /></a>
 
 <a href="http://www.github.com/dhrubaseal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dhrubaseal&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-
-
-### Hi there 👋, my name is Dhruba Jyoti Seal
-#### I am a Data Scientist
-![I am a Data Scientist](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
-A curious mind, trying to solve business problems with data and advance technologies, looking for opportunities in Data Scientist, Machine Learning Engineering, Research Scientist roles.
-
-Skills: Data Science /  / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
-
 
 
 
