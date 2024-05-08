@@ -1,10 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Dhruba Jyoti Seal
 =========================================================================================================================================
 
-Data Scientist
+Machine Learning Engineer
 --------------
-
-A curious mind, trying to solve business problems with data and advance technologies, looking for opportunities in Data Scientist, Machine Learning Engineering, Research Scientist roles.
+Machine Learning Engineer with a strong background in Data Science, Statistics, Machine Learning, Deep Learning & Computer Vision.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [dhrubaseal@gmail.com](mailto:dhrubaseal@gmail.com)
