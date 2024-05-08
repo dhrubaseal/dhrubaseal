@@ -5,34 +5,26 @@ Machine Learning Engineer
 --------------
 Machine Learning Engineer with a strong background in Data Science, Statistics, Machine Learning, Deep Learning & Computer Vision.
 
-* 🌍  I'm based in India
+* 🌍  I'm based in India.
 * ✉️  You can contact me at [dhrubaseal@gmail.com](mailto:dhrubaseal@gmail.com)
-* 🧠  I'm learning  Data Science, Statistics, Machine Learning, Deep Learning, Computer Vision & Natural Language Processing.
+* 🧠  I'm learning Data Science, Statistics, Machine Learning, Deep Learning, Computer Vision & Natural Language Processing.
 * 🤝  I'm open to collaborating on projects and startup ideas.
 
 
 ### Socials
 
 <p align="left">
-  <a href="https://github.com/dhrubaseal" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-    </picture>
-  </a>
   <a href="https://www.linkedin.com/in/dhrubaseal/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-    </picture>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" style="margin-right: 10px;" />
   </a>
-  <a href="mailto:dhrubaseal@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/email.svg" width="32" height="32" />
+  <a href="http://www.medium.com/@dhrubaseal" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="40" height="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://github.com/dhrubaseal" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" style="margin-right: 10px;" />
   </a>
   <a href="https://replit.com/@dhrubaseal" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/replit.svg" width="32" height="32" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/replit.svg" width="40" height="40" style="margin-right: 10px;" />
   </a>
 </p>
 
