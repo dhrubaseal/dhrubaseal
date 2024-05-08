@@ -15,16 +15,16 @@ Machine Learning Engineer with a strong background in Data Science, Statistics, 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dhrubaseal/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" style="margin-right: 10px;" />
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="40" height="40" style="margin-right: 10px;" />
   </a>
   <a href="http://www.medium.com/@dhrubaseal" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="40" height="40" style="margin-right: 10px;" />
+    <img src="https://img.icons8.com/color/48/000000/medium-monogram.png" width="40" height="40" style="margin-right: 10px;" />
   </a>
   <a href="https://github.com/dhrubaseal" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" style="margin-right: 10px;" />
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="40" height="40" style="margin-right: 10px;" />
   </a>
   <a href="https://replit.com/@dhrubaseal" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/replit.svg" width="40" height="40" style="margin-right: 10px;" />
+    <img src="https://img.icons8.com/color/48/000000/replit.png" width="40" height="40" style="margin-right: 10px;" />
   </a>
 </p>
 
