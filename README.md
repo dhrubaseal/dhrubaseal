@@ -15,16 +15,16 @@ Machine Learning Engineer with a strong background in Data Science, Statistics, 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dhrubaseal/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="40" height="40" style="margin-right: 10px;" />
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="40" height="40" style="margin-right: 20px;" />
   </a>
   <a href="http://www.medium.com/@dhrubaseal" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/medium-monogram.png" width="40" height="40" style="margin-right: 10px;" />
+    <img src="https://img.icons8.com/color/48/000000/medium-monogram.png" width="40" height="40" style="margin-right: 20px;" />
   </a>
   <a href="https://github.com/dhrubaseal" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="40" height="40" style="margin-right: 10px;" />
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="40" height="40" style="margin-right: 20px;" />
   </a>
   <a href="https://replit.com/@dhrubaseal" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/replit.png" width="40" height="40" style="margin-right: 10px;" />
+    <img src="https://img.icons8.com/color/48/000000/replit.png" width="40" height="40" style="margin-right: 20px;" />
   </a>
 </p>
 
@@ -41,5 +41,3 @@ Machine Learning Engineer with a strong background in Data Science, Statistics, 
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhrubaseal&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="dhrubaseal's GitHub streak stats" style="width: 50%;" />
     </a>
 </div>
-
-
