@@ -7,13 +7,23 @@ Machine Learning Engineer with a strong background in Data Science, Statistics, 
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [dhrubaseal@gmail.com](mailto:dhrubaseal@gmail.com)
-* 🧠  I'm learning Statistics, Mathematics, Algorithms, Coding, Data Science, Machine Learning, Deep Learning
-* 🤝  I'm open to collaborating on interesting Data Science, Machine Learning & Deep Learning projects.
+* 🧠  I'm learning  Data Science, Statistics, Machine Learning, Deep Learning, Computer Vision & Natural Language Processing.
+* 🤝  I'm open to collaborating on projects and startup ideas.
 
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/dhrubaseal" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/dhrubaseal/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@dhrubaseal" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left">
+  <a href="https://www.github.com/dhrubaseal" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+    </picture>
+  </a>
+  <a href="https://www.linkedin.com/in/dhrubaseal/" target="_blank" rel="noreferrer">
+    <picture>
+
 
 ### Badges
 
