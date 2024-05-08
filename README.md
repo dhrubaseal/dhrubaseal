@@ -14,7 +14,7 @@ Machine Learning Engineer with a strong background in Data Science, Statistics, 
 ### Socials
 
 <p align="left">
-  <a href="https://www.github.com/dhrubaseal" target="_blank" rel="noreferrer">
+  <a href="https://github.com/dhrubaseal" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
@@ -23,7 +23,18 @@ Machine Learning Engineer with a strong background in Data Science, Statistics, 
   </a>
   <a href="https://www.linkedin.com/in/dhrubaseal/" target="_blank" rel="noreferrer">
     <picture>
-
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+    </picture>
+  </a>
+  <a href="mailto:dhrubaseal@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/email.svg" width="32" height="32" />
+  </a>
+  <a href="https://replit.com/@dhrubaseal" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/replit.svg" width="32" height="32" />
+  </a>
+</p>
 
 ### Badges
 
