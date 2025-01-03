@@ -45,13 +45,28 @@ me.say_hi()
 
 <div align="center">
   
-  ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=2C2F33)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=2C2F33)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=2C2F33)
-  
-  ![OpenCV](https://img.shields.io/badge/OpenCV-Expert-27338e?style=for-the-badge&logo=opencv&logoColor=white&labelColor=2C2F33)
-  ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-Advanced-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=2C2F33)
-  ![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2C2F33)
+<details>
+<summary>Click to expand</summary>
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### AI & ML Tools
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=YOLO&logoColor=black)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-04C8C8?style=for-the-badge&logo=MediaPipe&logoColor=white)
+
+### Development & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</details>
   
 </div>
 
@@ -61,21 +76,21 @@ me.say_hi()
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🌐 Multilingual Voice Assistant</h3>
+      <h3 align="center">📈 Jane Street Real-Time Market Data Forecasting</h3>
       <p align="center">
-        Advanced AI system supporting 19+ languages with real-time translation
+        Predicting financial market responders using real-world data
         <br><br>
-        <a href="https://github.com/dhrubaseal/voice-assistant">
+        <a href="https://github.com/dhrubaseal/jane-street-market-prediction">
           <img src="https://img.shields.io/badge/View_Project-142664?style=for-the-badge&logo=github&logoColor=white">
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">👐 Sign Language Detection</h3>
+      <h3 align="center">⚽ Football Analytics</h3>
       <p align="center">
-        Real-time sign language interpretation system using computer vision
+        Developed a computer vision project for football game analytics
         <br><br>
-        <a href="https://github.com/dhrubaseal/sign-language">
+        <a href="https://github.com/dhrubaseal/football-analytics">
           <img src="https://img.shields.io/badge/View_Project-142664?style=for-the-badge&logo=github&logoColor=white">
         </a>
       </p>
@@ -95,21 +110,21 @@ me.say_hi()
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhrubaseal&theme=tokyonight&hide_border=true" width="400" />
 </p>
 
-<h2 align="center">🏆 Certifications</h2>
-
-<div align="center">
-  
-  [![IBM](https://img.shields.io/badge/IBM_Data_Science-Professional_Certificate-blue?style=for-the-badge&logo=ibm)](https://www.coursera.org)
-  [![Google](https://img.shields.io/badge/Google_Data_Analytics-Professional_Certificate-red?style=for-the-badge&logo=google)](https://www.coursera.org)
-  
-</div>
-
-<h2 align="center">🤝 Connect With Me</h2>
+<h2 align="center"> 🤝 Let's Connect and Collaborate! 🌟</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dhrubaseal/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="http://www.medium.com/@dhrubaseal"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="https://replit.com/@dhrubaseal"><img src="https://img.shields.io/badge/Replit-%23DD1200.svg?style=for-the-badge&logo=replit&logoColor=white"/></a>
+  <a href="mailto:dhrubaseal@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/dhrubaseal/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="http://www.medium.com/@dhrubaseal">
+    <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://dhrubaseal.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-%230A0A0A.svg?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
+  </a>
 </p>
 
 <div align="center">
