@@ -110,7 +110,7 @@ me.say_hi()
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhrubaseal&theme=tokyonight&hide_border=true" width="400" />
 </p>
 
-<h2 align="center"> 🤝 Let's Connect and Collaborate! 🌟</h2>
+<!-- <h2 align="center"> 🤝 Let's Connect and Collaborate! 🌟</h2>
 
 <p align="center">
   <a href="mailto:dhrubaseal@gmail.com">
@@ -125,7 +125,7 @@ me.say_hi()
   <a href="https://dhrubaseal.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-%230A0A0A.svg?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
   </a>
-</p>
+</p> -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
