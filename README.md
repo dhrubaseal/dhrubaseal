@@ -110,23 +110,6 @@ me.say_hi()
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhrubaseal&theme=tokyonight&hide_border=true" width="400" />
 </p>
 
-<!-- <h2 align="center"> 🤝 Let's Connect and Collaborate! 🌟</h2>
-
-<p align="center">
-  <a href="mailto:dhrubaseal@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/dhrubaseal/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="http://www.medium.com/@dhrubaseal">
-    <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://dhrubaseal.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-%230A0A0A.svg?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
-  </a>
-</p> -->
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
