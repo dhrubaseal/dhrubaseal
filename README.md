@@ -32,7 +32,7 @@ class DhrubaJyotiSeal:
             "field": "Electronics and Communications Engineering",
             "university": "West Bengal University of Technology"
         }
-        self.interests = ["Data Science", "Machine Learning",  "Artificial Intelligence", "Deep Learning", "Computer Vision", "Natural Language Processing"]
+        self.interests = ["Data Science", "Machine Learning", "Artificial Intelligence", "Deep Learning", "Computer Vision", "Natural Language Processing"]
         
     def say_hi(self):
         print("Thanks for dropping by! Let's collaborate on something amazing!")
