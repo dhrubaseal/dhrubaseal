@@ -17,7 +17,7 @@
 <h2 align="center">🌟 About Me</h2>
 
 <p align="center">
-  Passionate Machine Learning Engineer specializing in AI, Computer Vision, and Deep Learning solutions.
+  Passionate Machine Learning Engineer specializing in Artificial Intelligence, Computer Vision, and Deep Learning solutions.
 </p>
 
 ```python
